@@ -1,7 +1,7 @@
 # 💫 About Me:
-🧑‍🎓 I'm a computer science apprentice
-💼 I work on computer vision software at Saft Poitiers
-🦀 I enjoy using Flutter and Rust, and I'm always looking for projects involving these languages
+🧑‍🎓 I'm a computer science apprentice<br>
+💼 I work on computer vision software at Saft Poitiers<br>
+🦀 I enjoy using Flutter and Rust, and I'm always looking for projects involving these languages<br>
 🔍 I'm always interested in projects that involve AI, computer vision, data, or exploring new solutions <br><br>
 
 
